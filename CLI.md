@@ -24,8 +24,7 @@ nmap
 https://github.com/nmap/nmap
 
 beets.io
-https://beets.readthedocs.io/en/latest/faq.html#run-the-latest-
-source-version-of-beets
+https://beets.readthedocs.io/en/latest/faq.html#run-the-latest-source-version-of-beets
 
 tmux 
 https://github.com/tmux/tmux
